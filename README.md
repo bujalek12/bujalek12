@@ -13,6 +13,7 @@ Projects below are documented in Polish; code and commit history speak for thems
   wiatru i fotowoltaiki w polskim systemie energetycznym na dobę naprzód. Pipeline z API PSE
   i Open-Meteo, hurtownia w dbt na DuckDB, LightGBM z backtestem i przedziałami niepewności,
   codzienne uruchomienie w GitHub Actions i porównanie z oficjalnym planem PSE.
+  Działająca aplikacja: [bilans-kse.streamlit.app](https://bilans-kse.streamlit.app/?motyw=ciemny)
 - [**predykcja-chorob-serca**](https://github.com/bujalek12/predykcja-chorob-serca): praca inżynierska.
   9 modeli ML i 7 technik równoważenia klas na danych CDC BRFSS z trzech lat (AUC do 0,87).
 
